@@ -3,6 +3,8 @@
 
 # two mpu 6050 & NRF24L01 & Bluetooth module
 
+mpu6050 sensor data with kalman-filter
+
 Accuracy detection of dumbbell curl exercise posture
 
 1. wrist (Up and down movement)
