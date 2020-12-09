@@ -20,3 +20,6 @@ Wrist data + Elbow data -> Dumbbell curl exercise posture determination
 
 ### Hardware
 <img src = "https://user-images.githubusercontent.com/70682288/101593730-c4892f00-3a33-11eb-9320-b68a4f81db62.PNG" width="800" height="400">
+
+### Algorithm
+<img src = "https://user-images.githubusercontent.com/70682288/101593842-fc907200-3a33-11eb-82a9-a3cbc33a0ea2.PNG" width="600" height="600">
