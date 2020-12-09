@@ -14,3 +14,9 @@ Accuracy detection of dumbbell curl exercise posture
 Sensor attached to the elbow(Elbow shake data) -> Sensor attached to the wrist
 
 Wrist data + Elbow data -> Dumbbell curl exercise posture determination
+
+### System diagram
+<img src = "https://user-images.githubusercontent.com/70682288/101593671-a91e2400-3a33-11eb-8352-abf3dcab2943.PNG" width="800" height="400">
+
+### Hardware
+<img src = "https://user-images.githubusercontent.com/70682288/101593730-c4892f00-3a33-11eb-9320-b68a4f81db62.PNG" width="800" height="400">
